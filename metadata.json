@@ -1,0 +1,6 @@
+{
+  "name": "دفتر تداول",
+  "description": "تطبيق متكامل واحترافي لإدارة وتتبع صفقات التداول مع الرسوم البيانية وإدارة رأس المال والتقارير",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
